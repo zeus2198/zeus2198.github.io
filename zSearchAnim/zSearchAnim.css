@@ -25,7 +25,7 @@
     right: -22%;
     /* this value came after using some trigometry */
     bottom: -22%;
-    transition: all 2s;
+    transition: all 1.5s linear;
 }
 
 .clock .arm {
