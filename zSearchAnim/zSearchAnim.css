@@ -38,7 +38,7 @@
     bottom: 50%;
     right: 50%;
     height: 30%;
-    animation: searching 3s linear 2s infinite;
+    animation: searching 3s linear 1s infinite;
 }
 
 @keyframes searching {
