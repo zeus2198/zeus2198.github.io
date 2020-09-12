@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-swipezor/precache-manifest.7ebab88c52f5bc6312be9f11a014715e.js"
+  "/react-swipezor/precache-manifest.aba3b4dd4638c786c8b0e4e4671a2673.js"
 );
 
 self.addEventListener('message', (event) => {

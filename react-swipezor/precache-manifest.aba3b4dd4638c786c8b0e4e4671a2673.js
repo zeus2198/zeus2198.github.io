@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aef225d52b7a0a5da3a9389eae91572d",
+    "revision": "94d3b9298fd5e60aa1e0d4308d6c8a99",
     "url": "/react-swipezor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-swipezor/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "29138da1c77cd277ec96",
+    "revision": "41d4d8031bc4c4dc4388",
     "url": "/react-swipezor/static/css/main.610921e0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-swipezor/static/js/2.38c8fd84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29138da1c77cd277ec96",
-    "url": "/react-swipezor/static/js/main.325d1e16.chunk.js"
+    "revision": "41d4d8031bc4c4dc4388",
+    "url": "/react-swipezor/static/js/main.3d026e1b.chunk.js"
   },
   {
     "revision": "89261e0b072fe4ace670",
