@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-swipezor/static/css/main.610921e0.chunk.css",
+    "main.js": "/react-swipezor/static/js/main.7bba1af2.chunk.js",
+    "main.js.map": "/react-swipezor/static/js/main.7bba1af2.chunk.js.map",
+    "runtime-main.js": "/react-swipezor/static/js/runtime-main.65e7c9a3.js",
+    "runtime-main.js.map": "/react-swipezor/static/js/runtime-main.65e7c9a3.js.map",
+    "static/css/2.d34346ea.chunk.css": "/react-swipezor/static/css/2.d34346ea.chunk.css",
+    "static/js/2.38c8fd84.chunk.js": "/react-swipezor/static/js/2.38c8fd84.chunk.js",
+    "static/js/2.38c8fd84.chunk.js.map": "/react-swipezor/static/js/2.38c8fd84.chunk.js.map",
+    "index.html": "/react-swipezor/index.html",
+    "precache-manifest.80041caead55be50536fcbce5ee059b1.js": "/react-swipezor/precache-manifest.80041caead55be50536fcbce5ee059b1.js",
+    "service-worker.js": "/react-swipezor/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/react-swipezor/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.610921e0.chunk.css.map": "/react-swipezor/static/css/main.610921e0.chunk.css.map",
+    "static/js/2.38c8fd84.chunk.js.LICENSE.txt": "/react-swipezor/static/js/2.38c8fd84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65e7c9a3.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.38c8fd84.chunk.js",
+    "static/css/main.610921e0.chunk.css",
+    "static/js/main.7bba1af2.chunk.js"
+  ]
+}
