@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ff5d3ddbe3427aa82a86d74a61c42a7",
+    "revision": "aef225d52b7a0a5da3a9389eae91572d",
     "url": "/react-swipezor/index.html"
   },
   {
